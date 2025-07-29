@@ -1,0 +1,7 @@
+.github/
+helm-charts/
+.gitignore
+catalog-info.yaml
+CODEOWNERS
+Dockerfile
+README.md
